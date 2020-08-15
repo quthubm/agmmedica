@@ -1,2 +1,16 @@
-# agmmedica
-Types of Disinfectants and Sanitizers
+# Jenis Disinfektan dan Sanitizer
+Ada lebih dari 400 jenis  [disinfektan mylzime](https://agmmedica.com/product/milzyme-detergen-enzymatic-konsentrat/)yang saat ini terdaftar di CDC yang memenuhi kriteria Badan Perlindungan Lingkungan (EPA) untuk digunakan melawan virus yang menyebabkan COVID-19. Dari cairan hingga gel dan busa, hingga semprotan, hingga tisu, disinfektan tersedia dalam berbagai konfigurasi. Penting untuk menggunakan jenis disinfektan yang tepat pada permukaan yang benar untuk memastikan kemungkinan eliminasi patogen sebanyak mungkin. Jika Anda menggunakan jenis disinfektan yang salah, Anda berisiko membuat diri Anda terpapar. Menyemprotkan pembersih dan disinfektan pada permukaan lain yang tidak direkomendasikan oleh produsen dapat menghilangkan efek disinfektan.
+
+Antiseptik, seperti Antiseptik Tangan Instan Avagard D 3M, harus digunakan pada jaringan hidup, sementara disinfektan seperti Parker Protex Disinfectant Spray harus digunakan pada permukaan keras yang tidak hidup. Anda tidak boleh menggunakan disinfektan yang ditujukan untuk permukaan keras pada kulit karena dapat membahayakan tubuh.
+
+Cara Membersihkan dan Mendisinfeksi
+Sekarang kita semua memiliki pemikiran yang sama tentang perbedaan antara pembersihan dan disinfektan, berikut beberapa tip langsung dari CDC tentang cara membersihkan permukaan dengan benar:
+
+Bersihkan diri Anda atau permukaannya sebelum melakukan desinfektan: Pertama, bersihkan semua kontaminan sebelum melakukan disinfektan. Ini termasuk rumah dan fasilitas medis. Instrumen harus dicuci sebelumnya untuk menghilangkan bahan organik atau tanah. Kulit harus dibersihkan atau disiapkan sebelum disinfektan.
+Tentukan jenis permukaan yang akan Anda desinfektan: Apakah Anda ingin menghilangkan kemungkinan patogen dari kulit, permukaan keras, permukaan lunak, atau elektronik? Pastikan untuk menggunakan disinfektan yang sesuai untuk permukaan untuk memaksimalkan efisiensi.
+Pilih jenis disinfektan yang sesuai dan ikuti petunjuk penggunaan yang diberikan: Setelah Anda membersihkan dan menentukan jenis permukaan, pilih disinfektan atau antiseptik yang sesuai. Selalu verifikasi petunjuk penggunaan pada botol atau dari pabriknya.
+Cara Mendisinfeksi Tangan Anda
+Pastikan Anda telah mencuci tangan setidaknya selama 20 detik (pilih lagu favorit Anda dan mulailah bernyanyi!) Untuk menghilangkan kotoran, kotoran, atau minyak yang terlihat. Kontaminan ini dapat mengurangi efektivitas disinfektan. Jadi meskipun lebih baik menggunakan pembersih tangan daripada tidak sama sekali, mencuci tangan menghilangkan kontaminan dan membantu mencegah penyebaran patogen yang mungkin terjadi. Setelah tangan Anda bersih, Anda dapat menggunakan pembersih tangan yang mengandung setidaknya 60% alkohol untuk memastikan Anda telah membunuh semua kemungkinan patogen yang tidak dapat dihilangkan dengan mencuci. Antiseptik secara khusus dirancang untuk digunakan pada jaringan hidup, namun sabun antibakteri juga dapat digunakan. Sekali lagi, jangan pernah menggunakan  [disinfektan ](https://agmmedica.com/jangan-sampai-salah-inilah-perbedaan-antiseptik-dan-disinfektan/) yang ditujukan untuk permukaan keras pada kulit.
+
+MFI Medical membawa antiseptik tangan dan antibakteri dalam busa, gel, dan dengan pelembab. Anda dapat menemukannya dan lebih banyak lagi di koleksi APD kami (koleksi ini terus diperbarui!).
+
